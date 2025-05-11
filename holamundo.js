@@ -1,1 +1,1 @@
-console.log('Hola mundo!! desde team ACAPULCO_QUERETARO Javascript');
+console.log('Hola mundo!! desde team TECHI Javascript');
